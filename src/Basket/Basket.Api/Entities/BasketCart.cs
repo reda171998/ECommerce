@@ -16,7 +16,7 @@
             UserName = userName;
         }
 
-        public decimal TotlaPrice 
+        public decimal TotalPrice 
         {
             get
             {
